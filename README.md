@@ -1,2 +1,2 @@
-# placide
+# Placide 
 Personal website repo
